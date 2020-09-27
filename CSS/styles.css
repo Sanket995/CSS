@@ -149,7 +149,8 @@
       text-decoration: none;
     }
 
-    .button:hover {
+    .button:hover 
+    {
       background: #30E3CB;
       background-image: -webkit-linear-gradient(top, #5D54A4, #2A3D66);
       background-image: -moz-linear-gradient(top, #5D54A4, #2A3D66);
@@ -157,6 +158,7 @@
       background-image: -o-linear-gradient(top, #5D54A4, #2A3D66);
       background-image: linear-gradient(to bottom, #5D54A4, #2A3D66);
       text-decoration: none;
+      color: #FFFFFF;
     }
 
     a
