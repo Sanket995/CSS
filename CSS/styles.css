@@ -157,8 +157,15 @@
       background-image: -ms-linear-gradient(top, #5D54A4, #2A3D66);
       background-image: -o-linear-gradient(top, #5D54A4, #2A3D66);
       background-image: linear-gradient(to bottom, #5D54A4, #2A3D66);
-      text-decoration: none;
+      -webkit-border-radius: 8;
+      -moz-border-radius: 8;
+      border-radius: 8px;
+      font-family: 'Montserrat', sans-serif;
       color: #FFFFFF;
+      font-size: 20px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+      
     }
 
     a
